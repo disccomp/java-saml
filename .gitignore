@@ -1,3 +1,9 @@
+bin
 target
 .idea
-java-saml.iml
+*.iml
+.classpath
+.settings/
+.project
+core/doc
+toolkit/doc
